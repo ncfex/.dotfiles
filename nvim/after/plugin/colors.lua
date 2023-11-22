@@ -1,4 +1,3 @@
-
 function ColorMyPencils(colort)
 	color = color or "rose-pine"
 	vim.cmd.colorscheme(color)
